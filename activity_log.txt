@@ -53,3 +53,4 @@ Activity Log
 [2021-01-28 19:04:15] Cleaned up code
 [2021-01-30 01:24:14] Updated docs
 [2021-01-29 23:18:03] Updated dependencies
+[2021-01-29 19:41:56] Improved test coverage
