@@ -85,3 +85,4 @@ Activity Log
 [2021-02-20 01:31:48] Enhanced styling
 [2021-02-21 03:31:38] Updated docs
 [2021-02-21 01:17:57] Cleaned up code
+[2021-02-21 01:08:33] Fixed minor bug
