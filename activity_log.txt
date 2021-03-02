@@ -101,3 +101,4 @@ Activity Log
 [2021-03-01 00:38:08] Refactored code
 [2021-02-28 22:50:12] Enhanced styling
 [2021-03-01 20:16:43] Updated dependencies
+[2021-03-02 00:25:54] Updated docs
