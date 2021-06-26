@@ -283,3 +283,4 @@ Activity Log
 [2021-06-23 23:11:57] Updated docs
 [2021-06-23 23:20:13] Updated dependencies
 [2021-06-23 21:18:39] Optimized algorithm
+[2021-06-26 03:34:30] Cleaned up code
