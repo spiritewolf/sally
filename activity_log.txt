@@ -608,3 +608,4 @@ Activity Log
 [2024-12-07 23:17:36] Cleaned up code
 [2024-12-08 18:50:20] Cleaned up code
 [2024-12-11 18:48:00] Refactored code
+[2024-12-12 02:26:14] Updated docs
