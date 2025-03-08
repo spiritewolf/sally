@@ -1,2 +1,3 @@
 Activity Log
 [] Enhanced styling
+[] Enhanced styling
